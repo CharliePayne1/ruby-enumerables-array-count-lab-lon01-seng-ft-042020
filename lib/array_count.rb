@@ -3,6 +3,5 @@ def count_strings(array)
     if string.class == String
   end
 end
-end
 
   
