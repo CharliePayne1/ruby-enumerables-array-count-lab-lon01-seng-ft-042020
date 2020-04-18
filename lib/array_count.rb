@@ -1,4 +1,4 @@
-def count_strings(array) do
+def count_strings(array)
   array.count_strings
 end 
 
