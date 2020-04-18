@@ -1,3 +1,4 @@
-count_strings(array)
+def count_strings(array)
+  array.count_strings do 
 
   
